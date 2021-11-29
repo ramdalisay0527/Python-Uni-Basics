@@ -1,0 +1,5 @@
+input sons
+children gets sons
+children adds daughters
+print children
+quit
